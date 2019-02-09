@@ -19,8 +19,9 @@ public class PigLatin {
                     String [] tempArray = givenSentence[i].split(temp);
                     givenSentence[i] = temp + tempArray[1] + tempArray[0] + "ay";
 
+
                     //Log.d("TAG", "convertToPig: "  + givenSentence[i]);
-                    System.out.println("convertToPig: "  + givenSentence[i]);
+                    System.out.print(givenSentence[i] + " ");
                     break;
                 }
             }
