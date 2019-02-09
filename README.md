@@ -12,4 +12,4 @@ Sat Scores
 
 Pig Latin
 
-![alt text](https://github.com/elufire/Week5TestPigLatin/blob/master/pigLatin.png)
+![alt text](https://github.com/elufire/Week5TestPigLatin/blob/master/pig.png)
